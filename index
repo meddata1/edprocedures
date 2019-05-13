@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>پروسیجرهای اورژانس</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>فهرست</h2>
+  <div class="list-group">
+    <a href="#" class="list-group-item">لوله گذاري داخل تراشه</a>
+    <a href="#" class="list-group-item">كارديوورژن و دفيبريلاسيون </a>
+    <a href="#" class="list-group-item">chest tube تعبيه </a>
+        <a href="#" class="list-group-item">تعبيه لوله نازوگاستريك</a>
+
+    <a href="#" class="list-group-item">پاراسنتز</a>
+
+    <a href="#" class="list-group-item">انجام سونوگرافي هدفدار در بيمار ترومايي</a>
+
+    <a href="#" class="list-group-item">سونداژ </a>
+
+    <a href="#" class="list-group-item">شستشوي مثانه </a>
+
+    <a href="#" class="list-group-item">پونكسيون لومبر </a>
+    <a href="#" class="list-group-item">ديلاته كردن مردمك چشم جهت معاينه</a>
+    <a href="#" class="list-group-item">خارج كردن جسم خارجي از چشم </a>
+    <a href="#" class="list-group-item">معاينه با اسليت لامپ </a>
+    <a href="#" class="list-group-item">خارج كردن جسم خارجي از گوش </a>
+    <a href="#" class="list-group-item">تخليه هماتوم زير ناخن </a>
+    <a href="#" class="list-group-item">ترميم تاندون اكستانسور</a>
+    <a href="#" class="list-group-item">خارج كردن ناخن به داخل رشد كرده (</a>
+    <a href="#" class="list-group-item">برش وتخليه آبسه هاي نسج نرم </a>
+    <a href="#" class="list-group-item">بيحركت سازي شكستگيها </a>
+    <a href="#" class="list-group-item">گچ گيري اندام </a>
+        <a href="#" class="list-group-item">بيحركت سازي شكستگيها </a>
+
+    <a href="#" class="list-group-item">جااندازي و بيحركت سازي دررفتگيها
+ </a>
+    <a href="#" class="list-group-item">رگ گيري مركزي از وريد ژوگولر داخلي </a>
+    <a href="#" class="list-group-item">رگ گيري مركزي از وريد ساب كلاوين </a>
+    <a href="#" class="list-group-item">رگ گيري مركزي از وريد فمورال </a>
+
+   
+
+  </div>
+</div>
+
+</body>
+</html>
